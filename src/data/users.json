@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Thompson",
+    "email": "alice.thompson@example.com",
+    "address": "123 Maple Street, Seattle, WA 98101",
+    "phone": "+1-206-555-0134"
+  },
+  {
+    "id": 2,
+    "name": "Brian Lee",
+    "email": "brian.lee@example.com",
+    "address": "456 Oak Avenue, San Francisco, CA 94102",
+    "phone": "+1-415-555-0198"
+  },
+  {
+    "id": 3,
+    "name": "Chloe Martinez",
+    "email": "chloe.martinez@example.com",
+    "address": "789 Pine Road, Chicago, IL 60610",
+    "phone": "+1-312-555-0175"
+  },
+  {
+    "id": 4,
+    "name": "Daniel Kim",
+    "email": "daniel.kim@example.com",
+    "address": "321 Birch Blvd, Austin, TX 73301",
+    "phone": "+1-512-555-0142"
+  },
+  {
+    "id": 5,
+    "name": "Emma Johnson",
+    "email": "emma.johnson@example.com",
+    "address": "654 Cedar Lane, Boston, MA 02108",
+    "phone": "+1-617-555-0113"
+  },
+  {
+    "id": 6,
+    "name": "Dox",
+    "email": "dox@dox.com",
+    "address": "dox #567 Dox street",
+    "phone": "5-3323-2211"
+  },
+  {
+    "id": 7,
+    "name": "new guy",
+    "email": "newguy@newguy.com",
+    "address": "NewGuy Road",
+    "phone": "34-223-2323"
+  }
+]
