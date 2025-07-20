@@ -1,0 +1,14 @@
+{
+    "servers": {
+        "test-mcp-server": {
+            "type": "stdio",
+            "command": "npm",
+            "args": [
+                "--prefix",
+                "E:/Code/Projects/MCP",
+                "run",
+                "server:dev"
+            ]
+        }
+    }
+}

@@ -16,8 +16,6 @@ yarn-error.log*
 dist/
 build/
 
-# VSCode settings
-.vscode/
 
 # TypeScript build info
 *.tsbuildinfo
